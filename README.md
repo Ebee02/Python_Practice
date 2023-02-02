@@ -6,7 +6,7 @@ def timeTable(num):
 
   while (i <= 12)
     product = num * ctr
-    Console.log(num + "x "+ i+ " = "+ product)
+    print(num + "x "+ i+ " = "+ product)
     i++
 
 timeTable(3)
