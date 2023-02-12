@@ -1,12 +1,3 @@
-# PythonPratice
-#This is a function that will create a time table base on any number you input
-def timeTable(num):
-  i = 1
-  product = 0
+# Add a python file called ArithmeticFunction, this file ask u to input two numbers and do any or all of the arithmetic operation on the numbers
 
-  while (i <= 12)
-    product = num * ctr
-    print(num + "x "+ i+ " = "+ product)
-    i++
-
-timeTable(3)
+# I Also added a python file called coffee program 
